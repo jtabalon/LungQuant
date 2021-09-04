@@ -1,4 +1,4 @@
-# VM Lung 
+# Lung Quant 
 
 ---
 
@@ -19,15 +19,19 @@ If using this software influences your project, please cite the paper below:
 This software includes tools to:
 
 i) Preprocess the CT images to use with our Segmentation + Registration models
+
 ii) Segment a pair of Lung CT Images
+
 iii) Deformably register expiratory series to inspiratory series 
+
 iv) Compute Lung CT measurements
+
 v) Generate Attenuation Difference Map (ADM)
 
 
 ## Project Organization
 ```
-├── LICENSE                 <- **TODO** Add license.txt file
+├── LICENSE                 <- MIT License
 │
 ├── README.md               <- The top-level README for developers using this project
 │
