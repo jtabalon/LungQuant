@@ -1,0 +1,1 @@
+Load your inspiratory dicoms here, and don't forget to delete this file. 
