@@ -31,7 +31,7 @@ v) Generate Attenuation Difference Map (ADM)
 ![LungQuant Figure](https://github.com/jtabalon/LungQuant/blob/main/lung_quant_figure.png)
 
 
-## Project Organization
+## Project Organization/File Structure
 ```
 ├── LICENSE                 <- MIT License
 │
