@@ -14,7 +14,7 @@ This software provides functions to segment lobes from CT scans using a custom d
 
 If using this software influences your project, please cite the paper below:
 
-[insert paper citation here]
+https://doi.org/10.1148/ryai.2021210211
 
 This software includes tools to:
 
@@ -69,6 +69,7 @@ v) Generate Attenuation Difference Map (ADM)
 
 ### It is recommended to use an Anaconda Environment
 **TODO** complete requirements section
+- This package depends on a specific version of antspy. You must download antspyx-0.2.2-cp36-cp36m-linux_x86_64.whl or equivalent from https://pypi.org/project/antspyx/0.3.7/#files prior to installation
 - ./install.sh
 - pip install -r requirements.txt
 
